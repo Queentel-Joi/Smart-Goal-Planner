@@ -14,6 +14,6 @@ The **SMART Goal Planner** is a web application designed to help users set and m
 - Simple, user-friendly UI built with React
 
 
-Author :Queentel Joi
+Author :Queentel 
 
 
